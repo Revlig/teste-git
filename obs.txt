@@ -1,6 +1,6 @@
 Inserindo titulo
 
-Inserindo boas vindas
+Retirando boas vindas
 
 Inserindo texto inicial
 
