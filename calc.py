@@ -5,7 +5,7 @@ def soma(a, b):
     return add(a + b)
 
 
-def div(a, b):
+def divisao(a, b):
     return a/b
 
 
