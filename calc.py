@@ -13,5 +13,5 @@ def subtracao(a, b):
     return sub(a, b)
 
 
-def mult(a, b):
+def multDoisElementos(a, b):
     return a * b
