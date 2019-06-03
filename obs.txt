@@ -2,9 +2,8 @@ Inicio do titulo
 
 Boas vindas
 
-<<<<<<< HEAD
 Iserindo linha onze
-=======
+
 Inserindo corpo do texto
 
->>>>>>> parent of 180c309... [feature/observacoes] Inserindo rodape no texto
+Inserindo rodape no texto
