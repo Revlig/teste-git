@@ -1,11 +1,11 @@
 from operator import sub
 from operator import add
 
-def soma(a, b):
+def somaDoisElementos(a, b):
     return add(a + b)
 
 
-def div(a, b):
+def divisao(a, b):
     return a/b
 
 
