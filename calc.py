@@ -28,6 +28,3 @@ def funcaoERRADAAAAA():
 def funcaoERRADAAA2():
     pass
 
-
-def errada3():
-    pass
