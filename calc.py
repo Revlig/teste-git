@@ -18,3 +18,6 @@ def multDoisElementos(a, b):
 
 def funcao_super_errado(a,b,c):
     return a + b + c
+
+def outraFuncaoErrada():
+    return "hello"
