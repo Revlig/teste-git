@@ -15,3 +15,7 @@ def subtracao(a, b):
 
 def multDoisElementos(a, b):
     return a * b
+
+
+def funcaoErrada1():
+    return 1
