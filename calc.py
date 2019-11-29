@@ -24,3 +24,7 @@ def funcaoErrada1():
 def funcaoERRADAAAAA():
     pass
 
+
+def funcaoERRADAAA2():
+    pass
+
