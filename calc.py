@@ -19,3 +19,8 @@ def multDoisElementos(a, b):
 
 def funcaoErrada1():
     return 1
+
+
+def funcaoERRADAAAAA():
+    pass
+
