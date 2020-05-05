@@ -1,9 +1,1 @@
-Inicio do titulo
-
-Boas vindas
-
-Iserindo linha onze
-
-Inserindo corpo do texto
-
-Inserindo rodape no texto
+Insira qui um texto bonito!
