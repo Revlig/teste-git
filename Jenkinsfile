@@ -4,10 +4,15 @@ pipeline {
             label 'master'
         }
     }
-    //parameters {
-    //    string(name: 'user_id', defaultValue: 'gilver.souza', description: 'Id do usuário.')
-    //    string(name: 'api_name', defaultValue: 'api-user', description: 'Nome da API.')
-    //}
+    parameters {
+      choice(name: 'Environment',
+      choices: [
+        'dev',
+        'hml',
+        'prd'
+        ]
+      )
+    }
     stages {
         stage('Stage 01') { 
             steps {
