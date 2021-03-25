@@ -19,11 +19,11 @@ pipeline {
                 sh 'ls' 
             }
         }
-        //stage('Stage 02') { 
-        //    steps {
-        //        echo "${user_id}"
-        //        echo "${api_name}"
-        //    }
-        //}
+        stage('Stage 02') { 
+            steps {
+                echo "${user_id}"
+                echo "${api_name}"
+            }
+        }
     }
 }
