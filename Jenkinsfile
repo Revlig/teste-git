@@ -19,7 +19,7 @@ pipeline {
                 sh 'ls' 
             }
         }
-        stage('Stage 02') { 
+        stage('Stage 03') { 
             steps {
                 echo "${user_id}"
                 echo "${api_name}"
